@@ -1,1 +1,1 @@
-# Prctica-Tema-4-Installaci-i-Configuraci-de-Moodle
+# Practica-Tema-4-Instalacion-i-Configuracion-de-Moodle
