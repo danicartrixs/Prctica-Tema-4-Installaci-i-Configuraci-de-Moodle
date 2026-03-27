@@ -6,3 +6,4 @@ Per fer aquest apartat de la pràctica, he iniciat la sessió com a administrado
 
 ![Text alternatiu](imagen1.png "Títol opcional")
 
+![Text alternatiu](imagen.png "Títol opcional")
