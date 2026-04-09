@@ -14,3 +14,6 @@ Per començar he fet click en el **Logo** del meu perfil del *Moodle*, i despré
 En el punt *2* he canviat el nom del lloc i també he fet que la pàgina principal no mostri contingut per als usuaris no autenticats amb aquests passos: 
 - Primer de tot iniciem la sessio com **Administrador** en *Moodle*.
 ![Text alternatiu](imagen3.png "Títol opcional")
+- Ara anem a Administració del lloc > Primera plana > Paràmetres.
+- Després configurem la franja horaria correcta:  Ubicació > Paràmetres.
+![Text alternatiu](imagen4.png "Títol opcional")
