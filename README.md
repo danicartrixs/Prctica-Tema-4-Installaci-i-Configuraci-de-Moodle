@@ -21,3 +21,4 @@ En el punt *2* he canviat el nom del lloc i també he fet que la pàgina princip
 - Jo, he escollit ***Europe/Madrid*** perque estic a Espanya.
 - Ara per poder instalar idiomes tenim que anar a paquets d'idiomes.
 ![Text alternatiu](imagen6.png "Títol opcional")
+![Text alternatiu](imagen7.png "Títol opcional")
