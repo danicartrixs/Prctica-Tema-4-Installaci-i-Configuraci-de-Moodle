@@ -21,3 +21,5 @@ Per configurar el lloc hem d'iniciar coom a administrador, quant ja estem dins d
 - Ara per poder instalar idiomes tenim que anar a paquets d'idiomes.
 ![Text alternatiu](imagen6.png "Títol opcional")
 ![Text alternatiu](imagen7.png "Títol opcional")
+- Jo tinc instalat 3 idiomes: Espanyol (que es el que tinc pusat), El Català i per ultim l'angles.
+  
