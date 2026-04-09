@@ -17,3 +17,5 @@ En el punt *2* he canviat el nom del lloc i també he fet que la pàgina princip
 - Ara anem a Administració del lloc > Primera plana > Paràmetres.
 - Després configurem la franja horaria correcta:  Ubicació > Paràmetres.
 ![Text alternatiu](imagen4.png "Títol opcional")
+![Text alternatiu](imagen5.png "Títol opcional")
+- Jo, he escollit ***Europe/Madrid*** perque estic a Espanya.
