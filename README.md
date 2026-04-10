@@ -22,4 +22,6 @@ Per configurar el lloc hem d'iniciar coom a administrador, quant ja estem dins d
 ![Text alternatiu](imagen6.png "Títol opcional")
 ![Text alternatiu](imagen7.png "Títol opcional")
 - Jo tinc instalat 3 idiomes: Espanyol (que es el que tinc pusat), El Català i per ultim l'angles.
-  
+- Ara per poder canviar la seguretat del lloc hem d'anar a on diu seguretat i aball apareixera normatives del lloc, li fem click per poguer entrar.
+![Text alternatiu](imagen8.png "Títol opcional")
+![Text alternatiu](imagen9.png "Títol opcional")
