@@ -30,5 +30,7 @@ Per configurar el lloc hem d'iniciar coom a administrador, quant ja estem dins d
 ## Creació de cursos
 Per crear un curs hem d'anar a configuracio del lloc i despres quan estem dins donar-li a cursos
 ![Text alternatiu](imagen10.png "Títol opcional")
-- Ara per poder crear un curs lim de donar a crear curs, quant li clickem ens surtira aixo
+- Ara per poder crear un curs lim de donar a crear curs, quant li clickem ens surtira aixo, i li hem de donar nom com a "A".
 ![Text alternatiu](imagen11.png "Títol opcional")
+- Quan hem configurar tots el curs hem de crear per aquest primer curs 3 temes, en el meu cas jo els he renombrat com a : Barça, Real Madrid i Juventut de Badalona.
+![Text alternatiu](imagen12.png "Títol opcional")
