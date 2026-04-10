@@ -30,3 +30,5 @@ Per configurar el lloc hem d'iniciar coom a administrador, quant ja estem dins d
 ## Creació de cursos
 Per crear un curs hem d'anar a configuracio del lloc i despres quan estem dins donar-li a cursos
 ![Text alternatiu](imagen10.png "Títol opcional")
+- Ara per poder crear un curs lim de donar a crear curs, quant li clickem ens surtira aixo
+![Text alternatiu](imagen11.png "Títol opcional")
