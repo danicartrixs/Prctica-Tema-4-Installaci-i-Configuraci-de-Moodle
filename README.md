@@ -26,3 +26,7 @@ Per configurar el lloc hem d'iniciar coom a administrador, quant ja estem dins d
 ![Text alternatiu](imagen8.png "Títol opcional")
 ![Text alternatiu](imagen9.png "Títol opcional")
 - Quan estem dins ja podem canviar tots els parametres que vulguem sobre seguretat
+
+## Creació de cursos
+Per crear un curs hem d'anar a configuracio del lloc i despres quan estem dins donar-li a cursos
+![Text alternatiu](imagen10.png "Títol opcional")
