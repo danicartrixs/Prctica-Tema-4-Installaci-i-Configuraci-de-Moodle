@@ -35,5 +35,5 @@ Per crear un curs hem d'anar a configuracio del lloc i despres quan estem dins d
 - Quan hem configurar tots el curs hem de crear per aquest primer curs 3 temes, en el meu cas jo els he renombrat com a : Barça, Real Madrid i Juventut de Badalona.
 ![Text alternatiu](imagen12.png "Títol opcional")
 - Quan hem posat nom a tots els temes fiquem un pdf a un tema, en el meu cas he ficat un pdf al tema Barça
-- 
+![Text alternatiu](imagen13.png "Títol opcional")
 
