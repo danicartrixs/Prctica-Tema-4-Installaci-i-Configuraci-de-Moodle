@@ -40,3 +40,5 @@ Per crear un curs hem d'anar a configuracio del lloc i despres quan estem dins d
 ## Creació i gestió d'usuaris
 Per pogue crear un usuari ens hem d'anar a configuracio del lloc i després a creacio d'usuaris.
 ![Text alternatiu](imagen18.png "Títol opcional")
+Ara el que tenim que crear es un usuari que li anomenem Bob.
+![Text alternatiu](imagen19.png "Títol opcional")
