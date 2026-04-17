@@ -37,3 +37,6 @@ Per crear un curs hem d'anar a configuracio del lloc i despres quan estem dins d
 - Quan hem posat nom a tots els temes fiquem un pdf a un tema, en el meu cas he ficat un pdf al tema Barça.
 ![Text alternatiu](imagen13.png "Títol opcional")
 
+## Creació i gestió d'usuaris
+Per pogue crear un usuari ens hem d'anar a configuracio del lloc i després a creacio d'usuaris.
+![Text alternatiu](imagen18.png "Títol opcional")
