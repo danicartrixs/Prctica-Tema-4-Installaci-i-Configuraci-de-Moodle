@@ -42,3 +42,7 @@ Per pogue crear un usuari ens hem d'anar a configuracio del lloc i després a cr
 ![Text alternatiu](imagen18.png "Títol opcional")
 Ara el que tenim que crear es un usuari que li anomenem Bob.
 ![Text alternatiu](imagen19.png "Títol opcional")
+Apara per poder fer la segona part d'aquet punt hem d'nar un altre cop a usuaris i ara li hem de de d'onar a carrega usuaris, quan estem dins fiquem l'arxiu CSV que hem creat.
+![Text alternatiu](imagen20.png "Títol opcional")
+
+## Matriculació d'usuaris als cursos
