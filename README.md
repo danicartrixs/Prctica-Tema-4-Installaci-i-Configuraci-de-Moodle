@@ -45,9 +45,20 @@ Ara el que tenim que crear es un usuari que li anomenem Bob.
 Apara per poder fer la segona part d'aquet punt hem d'nar un altre cop a usuaris i ara li hem de de d'onar a carrega usuaris, quan estem dins fiquem l'arxiu CSV que hem creat.
 ![Text alternatiu](imagen20.png "Títol opcional")
 
-## Matriculació d'usuaris als cursos
+## Matriculació d'usuaris als cursos (Desde aqui hay que hacer)
 5.1. Configuració de mètodes d'inscripció
 
 Per fer el curs em de Desactiva qualsevol mètode d'inscripció per fer-lo públic. El curs ha de ser accessible sense iniciar sessió. 
 
 I per el curs B hem de fer el registre manual d'usuaris. Matriculeu l'usuari Bob com a professor i els alumnes restants com a estudiants.
+![Text alternatiu](imagen21.png "Títol opcional")
+![Text alternatiu](imagen22.png "Títol opcional")
+
+5.2. Verificació del contingut del curs A està disponible públicament.
+![Text alternatiu](imagen23.png "Títol opcional")
+Per accedir al curs B, cal iniciar sessió.
+![Text alternatiu](imagen24.png "Títol opcional")
+
+# 6. Personalització del lloc
+- Descarregueu i activeu un tema nou:
+- Anar a Administració del lloc > Connectors > Instal·lar complement.
