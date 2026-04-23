@@ -1,6 +1,6 @@
 # Practica-Tema-4-Instalacion-i-Configuracion-de-Moodle
 En aquesta pràctica he creat un portal Moodle de temàtica lliure, configurant-lo i explorant-ne les funcionalitats com a administrador.
-## Configuració inicial de Moodle
+## 1. Configuració inicial de Moodle
 
 Per fer aquest apartat de la pràctica, hem d'iniciar la sessió com a administrador i canviar el teu correu electrònic i la contrasenya seguint aquests passos:
 
@@ -10,7 +10,7 @@ Per començar he fet click en el Logo del meu perfil del Moodle, i després en l
 ![Text alternatiu](imagen2.png "Títol opcional")
 - En aquest apartat ja ens sortirà l’opció de configurar les nostres dades com: "correu electrònic, contraseña, nom..."
 
-## Configuració del lloc
+## 2. Configuració del lloc
 Per configurar el lloc hem d'iniciar coom a administrador, quant ja estem dins del lloc ens apareixera a la primera plana.
 ![Text alternatiu](imagen3.png "Títol opcional")
 - Ara anem a Administració del lloc > Primera plana > Paràmetres.
@@ -27,7 +27,7 @@ Per configurar el lloc hem d'iniciar coom a administrador, quant ja estem dins d
 ![Text alternatiu](imagen9.png "Títol opcional")
 - Quan estem dins ja podem canviar tots els parametres que vulguem sobre seguretat
 
-## Creació de cursos
+## 3. Creació de cursos
 Per crear un curs hem d'anar a configuracio del lloc i despres quan estem dins donar-li a cursos
 ![Text alternatiu](imagen10.png "Títol opcional")
 - Ara per poder crear un curs lim de donar a crear curs, quant li clickem ens surtira aixo, i li hem de donar nom com a "A".
@@ -37,7 +37,7 @@ Per crear un curs hem d'anar a configuracio del lloc i despres quan estem dins d
 - Quan hem posat nom a tots els temes fiquem un pdf a un tema, en el meu cas he ficat un pdf al tema Barça.
 ![Text alternatiu](imagen13.png "Títol opcional")
 
-## Creació i gestió d'usuaris
+## 4. Creació i gestió d'usuaris
 Per pogue crear un usuari ens hem d'anar a configuracio del lloc i després a creacio d'usuaris.
 ![Text alternatiu](imagen18.png "Títol opcional")
 Ara el que tenim que crear es un usuari que li anomenem Bob.
