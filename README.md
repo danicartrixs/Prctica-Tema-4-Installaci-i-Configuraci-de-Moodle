@@ -52,12 +52,11 @@ Per fer el curs em de Desactiva qualsevol mètode d'inscripció per fer-lo públ
 
 I per el curs B hem de fer el registre manual d'usuaris. Matriculeu l'usuari Bob com a professor i els alumnes restants com a estudiants.
 ![Text alternatiu](imagen21.png "Títol opcional")
-![Text alternatiu](imagen22.png "Títol opcional")
 
 5.2. Verificació del contingut del curs A està disponible públicament.
-![Text alternatiu](imagen23.png "Títol opcional")
+![Text alternatiu](imagen22.png "Títol opcional")
 Per accedir al curs B, cal iniciar sessió.
-![Text alternatiu](imagen24.png "Títol opcional")
+![Text alternatiu](imagen23.png "Títol opcional")
 
 # 6. Personalització del lloc
 - Descarregueu i activeu un tema nou:
