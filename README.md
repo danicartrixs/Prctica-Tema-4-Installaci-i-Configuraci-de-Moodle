@@ -65,4 +65,4 @@ Per accedir al curs B, cal iniciar sessió.
 - Una vegada pujat el complememnt anem a Administració del lloc > Aparença > Selector de temes.
 ![Text alternatiu](imagen25.png "Títol opcional")
 - Una vegada aqui escollim un de aquestes:
-
+![Text alternatiu](imagen26.png "Títol opcional")
