@@ -45,7 +45,7 @@ Ara el que tenim que crear es un usuari que li anomenem Bob.
 Apara per poder fer la segona part d'aquet punt hem d'nar un altre cop a usuaris i ara li hem de de d'onar a carrega usuaris, quan estem dins fiquem l'arxiu CSV que hem creat.
 ![Text alternatiu](imagen20.png "Títol opcional")
 
-## Matriculació d'usuaris als cursos (Desde aqui hay que hacer)
+## 5. Matriculació d'usuaris als cursos (Desde aqui hay que hacer)
 5.1. Configuració de mètodes d'inscripció
 
 Per fer el curs em de Desactiva qualsevol mètode d'inscripció per fer-lo públic. El curs ha de ser accessible sense iniciar sessió. 
