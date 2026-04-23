@@ -61,3 +61,4 @@ Per accedir al curs B, cal iniciar sessió.
 # 6. Personalització del lloc
 - Descarregueu i activeu un tema nou:
 - Anar a Administració del lloc > Connectors > Instal·lar complement.
+- ![Text alternatiu](imagen24.png "Títol opcional")
