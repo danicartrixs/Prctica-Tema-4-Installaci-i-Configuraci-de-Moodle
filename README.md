@@ -46,3 +46,8 @@ Apara per poder fer la segona part d'aquet punt hem d'nar un altre cop a usuaris
 ![Text alternatiu](imagen20.png "Títol opcional")
 
 ## Matriculació d'usuaris als cursos
+5.1. Configuració de mètodes d'inscripció
+
+Per fer el curs em de Desactiva qualsevol mètode d'inscripció per fer-lo públic. El curs ha de ser accessible sense iniciar sessió. 
+
+I per el curs B hem de fer el registre manual d'usuaris. Matriculeu l'usuari Bob com a professor i els alumnes restants com a estudiants.
