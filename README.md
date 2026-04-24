@@ -66,3 +66,11 @@ Per accedir al curs B, cal iniciar sessió.
 ![Text alternatiu](imagen25.png "Títol opcional")
 - Una vegada aqui escollim un de aquestes:
 ![Text alternatiu](imagen26.png "Títol opcional")
+- En el meu cas he posat aixo:
+![Text alternatiu](imagen29.png "Títol opcional")
+- Per ultim he afeix un logotip al moodle que es aquet:
+![Text alternatiu](imagen28.png "Títol opcional") 
+
+## 7. Creació de continguts i activitats
+
+7.1 Per fer aquest punt tenim que asignar un professor i matricular alumnes. I després figa activitas amb data d'entrega.
