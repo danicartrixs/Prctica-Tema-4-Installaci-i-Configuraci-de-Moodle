@@ -74,5 +74,7 @@ Per accedir al curs B, cal iniciar sessió.
 ## 7. Creació de continguts i activitats
 
 7.1 Per fer aquest punt tenim que asignar un professor i matricular alumnes. I després figa activitas amb data d'entrega.
-![Text alternatiu](imagen30.png "Títol opcional") 
 ![Text alternatiu](imagen31.png "Títol opcional") 
+![Text alternatiu](imagen32.png "Títol opcional") 
+7.2. Per fer aquesta part hem de fer el Curs B
+
