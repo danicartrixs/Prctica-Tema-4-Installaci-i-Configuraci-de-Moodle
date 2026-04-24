@@ -1,5 +1,8 @@
 # Practica-Tema-4-Instalacion-i-Configuracion-de-Moodle
 En aquesta pràctica he creat un portal Moodle de temàtica lliure, configurant-lo i explorant-ne les funcionalitats com a administrador.
+
+-------------------------------------------------------------------
+
 ## 1. Configuració inicial de Moodle
 
 Per fer aquest apartat de la pràctica, hem d'iniciar la sessió com a administrador i canviar el teu correu electrònic i la contrasenya seguint aquests passos:
@@ -9,6 +12,8 @@ Per començar he fet click en el Logo del meu perfil del Moodle, i després en l
 - Una vegada dins de l’apartat de perfil, hem de fer clic a Editar perfil
 ![Text alternatiu](imagen2.png "Títol opcional")
 - En aquest apartat ja ens sortirà l’opció de configurar les nostres dades com: "correu electrònic, contraseña, nom..."
+
+-------------------------------------------------------------------
 
 ## 2. Configuració del lloc
 Per configurar el lloc hem d'iniciar coom a administrador, quant ja estem dins del lloc ens apareixera a la primera plana.
@@ -27,6 +32,8 @@ Per configurar el lloc hem d'iniciar coom a administrador, quant ja estem dins d
 ![Text alternatiu](imagen9.png "Títol opcional")
 - Quan estem dins ja podem canviar tots els parametres que vulguem sobre seguretat
 
+-------------------------------------------------------------------
+
 ## 3. Creació de cursos
 Per crear un curs hem d'anar a configuracio del lloc i despres quan estem dins donar-li a cursos
 ![Text alternatiu](imagen10.png "Títol opcional")
@@ -37,13 +44,21 @@ Per crear un curs hem d'anar a configuracio del lloc i despres quan estem dins d
 - Quan hem posat nom a tots els temes fiquem un pdf a un tema, en el meu cas he ficat un pdf al tema Barça.
 ![Text alternatiu](imagen13.png "Títol opcional")
 
+-------------------------------------------------------------------
+
 ## 4. Creació i gestió d'usuaris
 Per pogue crear un usuari ens hem d'anar a configuracio del lloc i després a creacio d'usuaris.
+
 ![Text alternatiu](imagen18.png "Títol opcional")
+
 Ara el que tenim que crear es un usuari que li anomenem Bob.
+
 ![Text alternatiu](imagen19.png "Títol opcional")
+
 Apara per poder fer la segona part d'aquet punt hem d'nar un altre cop a usuaris i ara li hem de de d'onar a carrega usuaris, quan estem dins fiquem l'arxiu CSV que hem creat.
 ![Text alternatiu](imagen20.png "Títol opcional")
+
+-------------------------------------------------------------------
 
 ## 5. Matriculació d'usuaris als cursos (Desde aqui hay que hacer)
 5.1. Configuració de mètodes d'inscripció
@@ -58,6 +73,8 @@ I per el curs B hem de fer el registre manual d'usuaris. Matriculeu l'usuari Bob
 Per accedir al curs B, cal iniciar sessió.
 ![Text alternatiu](imagen23.png "Títol opcional")
 
+-------------------------------------------------------------------
+
 # 6. Personalització del lloc
 - Descarregueu i activeu un tema nou:
 - Anar a Administració del lloc > Connectors > Instal·lar complement.
@@ -69,12 +86,16 @@ Per accedir al curs B, cal iniciar sessió.
 - En el meu cas he posat aixo:
 ![Text alternatiu](imagen29.png "Títol opcional")
 - Per ultim he afeix un logotip al moodle que es aquet:
-![Text alternatiu](imagen28.png "Títol opcional") 
+![Text alternatiu](imagen28.png "Títol opcional")
+
+-------------------------------------------------------------------
 
 ## 7. Creació de continguts i activitats
 
 7.1 Per fer aquest punt tenim que asignar un professor i matricular alumnes. I després figa activitas amb data d'entrega.
 ![Text alternatiu](imagen31.png "Títol opcional") 
 ![Text alternatiu](imagen32.png "Títol opcional") 
-7.2. Per fer aquesta part hem de fer el Curs B
 
+7.2. Per fer aquesta part hem de fer el Curs B, Cloneu el contingut del curs A al curs B: Accediu a Administració del curs i feu clic a Importar. Per fer la importació del Curs A al Curs B, hem d'anar al curs on volem importar i després fer clic en Més i seleccionar "Reutilització del curs", a continuació triem el curs (en aquest cas, el Curs A) i fem clic a import.
+
+![Text alternatiu](imagen33.png "Títol opcional") 
