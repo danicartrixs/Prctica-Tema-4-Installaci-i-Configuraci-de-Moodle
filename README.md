@@ -105,3 +105,10 @@ Per accedir al curs B, cal iniciar sessió.
 
 ## 8. Qualificacions i insígnies
 
+8.1 Qualificacions: Per fer aixo he iniciat seccio amb un altre usuari i he enviat una tasca. D'espres he tornat al meu rol de professor i la he corregit. Després he configurat el sistema de qualificació automàtica des del qualificador.
+![Text alternatiu](imagen35.png "Títol opcional") 
+![Text alternatiu](imagen36.png "Títol opcional") 
+
+8.2 Insígnies: Per poder crear usuaris tendrem que anar a Administració del lloc, després tindrem que buscar la seccio d'insignies i entrem hon posa Crear nova insignia, i la creem.
+![Text alternatiu](imagen37.png "Títol opcional") 
+
