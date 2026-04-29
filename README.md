@@ -111,4 +111,4 @@ Per accedir al curs B, cal iniciar sessió.
 
 8.2 Insígnies: Per poder crear usuaris tendrem que anar a Administració del lloc, després tindrem que buscar la seccio d'insignies i entrem hon posa Crear nova insignia, i la creem.
 ![Text alternatiu](imagen37.png "Títol opcional") 
-
+![Text alternatiu](imagen38.png "Títol opcional") 
