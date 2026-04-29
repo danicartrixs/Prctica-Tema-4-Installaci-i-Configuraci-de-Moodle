@@ -127,4 +127,15 @@ He creat un qüestionari dins del curs A per avaluar els alumnes, utilitzant el 
 
 Exporteu una còpia de seguretat del curs, per fer la copia de seguretat tenim que anar a
 Administració > Cursos > Reutltzacio del curs.
+![Text alternatiu](imagen40.png "Títol opcional") 
+![Text alternatiu](imagen41.png "Títol opcional") 
+Envieu el fitxer a un company i importeu un altre curs del seu Moodle.
+
+----------------------------------------------------
+
+## 11. Seguretat
+
+En aquest apartat he configurat la seguretat del Moodle bloquejant una IP i aplicant una política de seguretat.
+He anat a l’apartat de seguretat del sistema i he afegit una IP concreta a la llista de bloqueig, de manera que aquesta IP no pot accedir al Moodle. per fer aixo he tingut que anar a - Administració > Seguretat > bloquejador d'IP.
+
 
