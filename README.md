@@ -117,3 +117,11 @@ Per accedir al curs B, cal iniciar sessió.
 
 ## 9. Qüestionaris
 
+![Text alternatiu](imagen39.png "Títol opcional") 
+
+
+
+
+-------------------------------------------
+
+## 10. Importació i exportació de cursos
