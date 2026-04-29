@@ -99,3 +99,9 @@ Per accedir al curs B, cal iniciar sessió.
 7.2. Per fer aquesta part hem de fer el Curs B, Cloneu el contingut del curs A al curs B: Accediu a Administració del curs i feu clic a Importar. Per fer la importació del Curs A al Curs B, hem d'anar al curs on volem importar i després fer clic en Més i seleccionar "Reutilització del curs", a continuació triem el curs (en aquest cas, el Curs A) i fem clic a import.
 
 ![Text alternatiu](imagen33.png "Títol opcional") 
+![Text alternatiu](imagen34.png "Títol opcional") 
+
+-------------------------------------------------------------------------
+
+## 8. Qualificacions i insígnies
+
