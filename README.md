@@ -117,11 +117,14 @@ Per accedir al curs B, cal iniciar sessió.
 
 ## 9. Qüestionaris
 
+He creat un qüestionari dins del curs A per avaluar els alumnes, utilitzant el banc de proves.
 ![Text alternatiu](imagen39.png "Títol opcional") 
-
-
 
 
 -------------------------------------------
 
 ## 10. Importació i exportació de cursos
+
+Exporteu una còpia de seguretat del curs, per fer la copia de seguretat tenim que anar a
+Administració > Cursos > Reutltzacio del curs.
+
