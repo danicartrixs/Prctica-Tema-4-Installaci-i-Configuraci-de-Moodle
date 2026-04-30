@@ -137,5 +137,3 @@ Envieu el fitxer a un company i importeu un altre curs del seu Moodle.
 
 En aquest apartat he configurat la seguretat del Moodle bloquejant una IP i aplicant una política de seguretat.
 He anat a l’apartat de seguretat del sistema i he afegit una IP concreta a la llista de bloqueig, de manera que aquesta IP no pot accedir al Moodle. per fer aixo he tingut que anar a - Administració > Seguretat > bloquejador d'IP.
-![Text alternatiu](imagen43.png "Títol opcional") 
-![Text alternatiu](imagen42.png "Títol opcional") 
